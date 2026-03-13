@@ -2,6 +2,7 @@
 
 FinAI is a modern, AI-powered financial management application designed to simplify expense tracking and budgeting. By leveraging the **Google Gemini 3 Flash** model, FinAI automatically categorizes your transactions, providing instant insights into your spending habits without the manual effort.
 
+![FinAI Preview](finai_transaction.png)
 
 ## ✨ Key Features
 
