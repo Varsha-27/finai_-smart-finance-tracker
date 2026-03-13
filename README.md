@@ -32,11 +32,7 @@ FinAI is a modern, AI-powered financial management application designed to simpl
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/finai.git
-   cd finai
-   ```
+1. **Clone the repository** 
 
 2. **Install dependencies**
    ```bash
